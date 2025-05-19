@@ -18,11 +18,6 @@ Este proyecto es un punto de partida para una aplicación Flutter que monitorea 
 
 La aplicación utiliza el paquete `battery_plus` para acceder a la información de la batería del dispositivo. Cuando el nivel de batería cae por debajo del 20%, la aplicación muestra una alerta visual y una notificación para advertir al usuario.
 
-## Requisitos
-
-- Flutter 3.0.0 o superior
-- Dart 2.17.0 o superior
-- Dispositivo Android 5.0+ o iOS 11.0+
 
 ### 📥 Clonar el repositorio
 
