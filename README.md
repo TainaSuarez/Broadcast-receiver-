@@ -13,16 +13,6 @@ Este proyecto es un punto de partida para una aplicación Flutter que monitorea 
 - Alertas visuales cuando la batería está baja
 - Interfaz intuitiva y fácil de usar
 
-## Recursos para comenzar
-
-Si este es tu primer proyecto Flutter, aquí hay algunos recursos que pueden ayudarte:
-
-- [Laboratorio: Escribe tu primera aplicación Flutter](https://docs.flutter.dev/get-started/codelab)
-- [Recetario: Ejemplos útiles de Flutter](https://docs.flutter.dev/cookbook)
-
-Para obtener ayuda para comenzar con el desarrollo de Flutter, consulta la
-[documentación en línea](https://docs.flutter.dev/), que ofrece tutoriales,
-muestras, orientación sobre desarrollo móvil y una referencia completa de la API.
 
 ## Cómo funciona
 
