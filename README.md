@@ -24,4 +24,24 @@ La aplicación utiliza el paquete `battery_plus` para acceder a la información 
 - Dart 2.17.0 o superior
 - Dispositivo Android 5.0+ o iOS 11.0+
 
+### 📥 Clonar el repositorio
+
+```bash
+git clone https://github.com/TainaSuarez/Broadcast-receiver-.git
+cd Broadcast-receiver-4
+```
+
+### Instalar dependencias
+```bash
+flutter pub get
+```
+### ▶️ Ejecutar la aplicación
+```bash
+flutter run
+```
+
+### Autora
+Desarrollado por Tainá Suárez
+
+
 
